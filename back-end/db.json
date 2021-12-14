@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Cbum",
+      "mensagem": "What is up, YouTube!"
+    },
+    {
+      "id": 2,
+      "nome": "Ronnie Coleman",
+      "mensagem": "Lightweight, baby!"
+    },
+    {
+      "id": 3,
+      "nome": "Arnold",
+      "mensagem": "Consider that a divorce!"
+    },
+    {
+      "nome": "f",
+      "mensagem": "d",
+      "id": 4
+    }
+  ]
+}
